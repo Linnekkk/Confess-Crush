@@ -6,7 +6,7 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
-    title: 'Purple is the last color of the rainbow🌈',
+    title: 'Purple is the last color of the rainbow🌈Purple means I will trust and love you for a long time😍',
     desc: ' Purple means I will trust and love you for a long time😍 ',
     btnYes: 'iu nhắmmm <33',
     btnNo: 'còn dỗi vkl:( ',
