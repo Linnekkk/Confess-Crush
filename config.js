@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Đào Duy Vũ',
     introDesc: `Purple is the last color of the rainbow🌈
     Purple means I will trust and love you for a long time😍`,
-    btnIntro: '^^hè hè hè ^^',
+    btnIntro: '^^bấm tiếp đi-.- ^^',
     title: 'Đừng dỗi em nữa🥺🥺',
     desc: ' iii mak 👉👈 ',
     btnYes: 'iu nhắmmm <33',
